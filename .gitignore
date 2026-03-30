@@ -1,0 +1,9 @@
+# Comby Analytics - Git Ignore
+# Exclude test mock and local dev files
+test-mock/
+comby-analytics.zip
+.DS_Store
+Thumbs.db
+node_modules/
+package-lock.json
+*.log
