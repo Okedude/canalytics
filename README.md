@@ -1,4 +1,4 @@
-# Comby Analytics v2.0 PRO 🚀
+# Comby Analytics v2.0
 
 **Ultimate Privacy-First, Cookie-less WordPress Analytics.**
 
@@ -8,13 +8,13 @@ Comby Analytics is a high-performance, GDPR-compliant analytics engine built dir
 
 ## ✨ Key Features
 
--   **🔒 100% Privacy-First**: No cookies, no tracking IDs, and no personal data stored in the database. Uses rotating secure hashes for identity-safe tracking.
--   **🛒 eCommerce Ready**: Native integration with WooCommerce, Easy Digital Downloads (EDD), and SureCart. Tracks revenue and conversion rates automatically.
--   **🚦 UTM & Referrer Tracking**: Monitor your marketing performance with built-in UTM source, medium, and campaign tracking.
--   **🚀 Real-time Dashboard**: See live visitors on your site and their active pages as it happens.
--   **🗺️ User Journeys**: Visualize the exact path visitors take through your site, from landing to conversion.
--   **🌍 Geolocation**: Insights into visitor countries and cities without compromising individual privacy.
--   **⚡ Lightweight & Fast**: Minimal footprint, using native WordPress REST API and optimized database queries.
+-   **100% Privacy-First**: No cookies, no tracking IDs, and no personal data stored in the database. Uses rotating secure hashes for identity-safe tracking.
+-   **eCommerce Ready**: Native integration with WooCommerce, Easy Digital Downloads (EDD), and SureCart. Tracks revenue and conversion rates automatically.
+-   **UTM & Referrer Tracking**: Monitor your marketing performance with built-in UTM source, medium, and campaign tracking.
+-   **Real-time Dashboard**: See live visitors on your site and their active pages as it happens.
+-   **User Journeys**: Visualize the exact path visitors take through your site, from landing to conversion.
+-   **Geolocation**: Insights into visitor countries and cities without compromising individual privacy.
+-   **Lightweight & Fast**: Minimal footprint, using native WordPress REST API and optimized database queries.
 
 ---
 
